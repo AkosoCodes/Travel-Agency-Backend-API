@@ -36,18 +36,17 @@ These instructions will get you a copy of the project up and running on your loc
 
 **<h3>Requirements:</h3>**
 <ul>
+<li>NodeJS</li>
 <li>MongoDB</li>
-<li>Backend API</li>
 </ul>
 
 **<h3>Guide:</h3>**
-
-1. Download the source code
-2. Run the Backend API
-3. In the Angular CLI:
+1. Install Node.js and MongoDB Server
+2. Clone the repository onto your local machine
+3. Open a terminal window in the 'src' directory of the project
+4. Execute the following commands:
 <br>>```npm install```
-<br>>```ng serve```
-4. Enjoy! :D
+<br>>```node server.js``` | | ```nodemon server.js```
 
 
 ## ⚖ | License <a name="license"></a>
