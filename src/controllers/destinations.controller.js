@@ -1,4 +1,3 @@
-
 // Imports
 const router = require('express').Router();
 const destService = require('../services/destinations.service')

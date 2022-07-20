@@ -1,4 +1,3 @@
-
 // Imports
 const router = require('express').Router();
 const bookingService = require('../services/bookings.service');

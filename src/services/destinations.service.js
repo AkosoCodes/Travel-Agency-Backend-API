@@ -1,4 +1,3 @@
-
 // Imports
 const mongoose = require("mongoose");
 const { schema } = require('../schemas/destinations.schema');
