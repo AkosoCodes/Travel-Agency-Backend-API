@@ -3,10 +3,11 @@
 <p>This is the backend API of a web application developed using NodeJS and MongoDB, for the 'Web Programming' course at Singidunum University.</p>
 
 ## 📝 | Table of Contents
-- [🧐 Project Task <a name="project_task"></a>](#--project-task-)
-- [🧰 Languages & Tools <a name="languages_&_tools"></a>](#--languages--tools-)
-- [🏁 Getting Started <a name="getting_started"></a>](#--getting-started-)
-- [⚖ License <a name="license"></a>](#--license-)
+- [📝 | Table of Contents](#--table-of-contents)
+- [🧐 | Project Task <a name="project_task"></a>](#--project-task-)
+- [🧰 | Languages & Tools <a name="languages_&_tools"></a>](#--languages--tools-)
+- [🏁 | Getting Started <a name="getting_started"></a>](#--getting-started-)
+- [⚖ | License <a name="license"></a>](#--license-)
 
 ## 🧐 | Project Task <a name="project_task"></a>
 
@@ -33,14 +34,15 @@ These instructions will get you a copy of the project up and running on your loc
 **<h3>Requirements:</h3>**
 <ul>
 <li>NodeJS (https://nodejs.org/en/)</li>
-<li>MongoDB (https://www.mongodb.com/)</li>
+<li>MongoDB (https://www.mongodb.com/).</li>
 </ul>
 
 **<h3>Guide:</h3>**
 1. Install Node.js and MongoDB Server
-2. Clone the repository onto your local machine
-3. Open a terminal window in the 'src' directory of the project
-4. Execute the following commands:
+2. Create a new database inside MongoDB called 'travello' and import the files from [Database](/database)
+3. Clone the repository onto your local machine
+4. Open a terminal window in the 'src' directory of the project
+5. Execute the following commands:
 <br>>```npm install```
 <br>>```node server.js``` | | ```nodemon server.js```
 
