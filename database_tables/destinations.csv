@@ -1,0 +1,16 @@
+__v,_id,categories,city,country,description,imageURL,review
+0,62ac9b6e26d0d5a54a080362,"[""mongolia"",""nepal"",""asia"",""mountain""]",Nepal,Mongolia,An amazing destination for the adventorous.,/images/Destinations/Nepal.jpg,3.5
+0,62aca7860d0f049e4e80c696,"[""machu picchu"",""peru"",""america"",""mountain""]",Machu Picchu,Peru,An archeological masterpiece.,/images/Destinations/Machu_Picchu.jpg,4.7
+0,62aca8320d0f049e4e80c698,"[""agra"",""india"",""asia"",""city""]",Agra,India,Beautiful city containing a magical marble mausoleum.,/images/Destinations/Agra.jpg,4.3
+0,62aca8830d0f049e4e80c69b,"[""paris"",""france"",""europe"",""city""]",Paris,France,"Europe's most revered city of love.",/images/Destinations/Paris.jpg,4.7
+0,62acba1d0d0f049e4e80c6f6,"[""los angeles"",""california"",""america"",""city"",""beach""]",Los Angeles,California,"Wonderful beaches, progressive state, and non-stop sunshine.",/images/Destinations/Los_Angeles.jpg,4.9
+0,62ae219fcf74d2ecaedf40ec,"[""madrid"",""spain"",""europe"",""city""]",Madrid,Spain,It is situated on an undulating plateau of sand and clay known as the Meseta.,/images/Destinations/Madrid.jpg,4.2
+0,62b0194284fe5f8af91c496e,"[""kiev"",""ukraine"",""europe"",""city""]",Kiev,Ukraine,A beautiful city in Ukraine.,/images/Destinations/Kiev.jpg,3.3
+0,62b0a77a7fcdcd126b5fdda0,"[""honolulu"",""hawaii"",""america"",""island"",""beach""]",Honolulu,Hawaii,A tropical island filled with palm trees and good vibes.,/images/Destinations/Hawaii.jpg,3.3
+0,62b190f857230f762f181a9a,"[""belgrade"",""serbia"",""europe"",""city"",""balkan""]",Belgrade,Serbia,A city filled with history.,/images/Destinations/Belgrade.jpg,4.8
+0,62b1976057230f762f181b04,"[""santorini"",""greece"",""europe"",""island"",""beach""]",Santorini,Greece,A majestic outlook to the sea.,/images/Destinations/Santorini.jpg,3.7
+0,62b71b6ff6690dcc8058cd16,"[""vienna"",""austria"",""city"",""europe""]",Vienna,Austria,A wonderful place in Austria!,/images/Destinations/Vienna.jpg,5
+0,62b71bb3f6690dcc8058cd19,"[""bora bora"",""france"",""island"",""europe"",""beach""]",Bora Bora,France,"Island in French Polynesia
+",/images/Destinations/Bora_Bora.jpg,4.9
+0,62b71bdef6690dcc8058cd1c,"[""amazon"",""brazil"",""rainforest"",""america""]",Amazon,Brazil,Rainforest in Brazil.,/images/Destinations/Amazon.jpg,2.3
+0,62b71bfbf6690dcc8058cd1f,"[""bali"",""indonesia"",""asia"",""beach""]",Bali,Indonesia,Heaven on earth!,/images/Destinations/Bali.jpg,4.4
