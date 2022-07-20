@@ -34,12 +34,12 @@ These instructions will get you a copy of the project up and running on your loc
 **<h3>Requirements:</h3>**
 <ul>
 <li>NodeJS (https://nodejs.org/en/)</li>
-<li>MongoDB (https://www.mongodb.com/).</li>
+<li>MongoDB (https://www.mongodb.com/)</li>
 </ul>
 
 **<h3>Guide:</h3>**
 1. Install Node.js and MongoDB Server
-2. Create a new database inside MongoDB called 'travello' and import the files from [Database](/database)
+2. Create a new database inside MongoDB called 'travello' and import the files from [database](/database)
 3. Clone the repository onto your local machine
 4. Open a terminal window in the 'src' directory of the project
 5. Execute the following commands:
