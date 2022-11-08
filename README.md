@@ -49,4 +49,3 @@ These instructions will get you a copy of the project up and running on your loc
 
 ## ⚖ | License <a name="license"></a>
 This repository is under the [MIT](https://opensource.org/licenses/MIT) license.
-
